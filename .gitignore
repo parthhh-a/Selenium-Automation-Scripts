@@ -1,0 +1,15 @@
+Set-Content -Path .gitignore -Value @'
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.xlsx
+*.csv
+data/
+chromedriver.log
+'@ -Encoding UTF8

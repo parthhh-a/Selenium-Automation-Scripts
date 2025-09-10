@@ -1,0 +1,8 @@
+Set-Content requirements.txt -Value @'
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+pandas
+openpyxl
+'@ -Encoding UTF8
