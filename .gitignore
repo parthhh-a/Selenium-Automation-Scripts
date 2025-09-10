@@ -8,7 +8,6 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
-*.xlsx
 *.csv
 data/
 chromedriver.log
